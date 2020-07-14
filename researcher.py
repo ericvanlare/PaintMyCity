@@ -1,8 +1,8 @@
 import pywikibot
 from google_images_search import GoogleImagesSearch
 
-gcred1 = 'AIzaSyBgyYNj2m9Wg5rYuHoxae4EPn2pNuLjp9o'
-gcred2 = '011420978520429271586:eig0s4pggqg'
+gcred1 = ''
+gcred2 = ''
 
 def scrape(name, path, n):
     print('Scraping ' + name + ' to ' + path)
